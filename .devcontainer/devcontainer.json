@@ -9,7 +9,7 @@
 		"ghcr.io/devcontainers/features/python:1": {}
 	},
 	"forwardPorts": [
-        1400
+        4200
     ]
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
