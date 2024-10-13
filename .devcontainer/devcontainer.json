@@ -7,7 +7,10 @@
 	"workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
 	"features": {
 		"ghcr.io/devcontainers/features/python:1": {}
-	}
+	},
+	"forwardPorts": [
+        1400
+    ]
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
