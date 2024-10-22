@@ -10,7 +10,7 @@
 			"version": "latest"
 		},
 		"ghcr.io/itsmechlark/features/postgresql:1": {
-			"version": "latest"
+			"version": "16"
 		},
 		"ghcr.io/devcontainers-extra/features/angular-cli:2": {
 			"version": "latest"
